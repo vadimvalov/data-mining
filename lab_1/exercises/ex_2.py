@@ -1,6 +1,6 @@
 # Exercise 1.3 (2) Show the ROC curve and AUC score
 
-mport numpy as np
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc, roc_auc_score
